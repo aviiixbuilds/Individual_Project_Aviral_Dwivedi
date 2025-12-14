@@ -17,7 +17,6 @@ Designed with **neon glow effects, floating shoe visuals, and modern UI aestheti
 
 <img src="images/screenshot1.png">
 <img src="images/screenshot2.png">
-<img src="images/screenshot3.png">
 
 ---
 
