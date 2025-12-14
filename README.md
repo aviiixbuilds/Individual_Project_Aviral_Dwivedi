@@ -1,5 +1,94 @@
-This project is a simple and visually appealing product landing page for the SNKRD brand. It has been created using only HTML and CSS, without any JavaScript or external frameworks. The design follows a futuristic and neon theme, giving it a modern, high-tech look inspired by sneaker culture and cyber aesthetics.
-The page includes a navigation bar, a main hero section featuring a floating sneaker image, a product details section highlighting features, and a recommended products area displaying different sneaker variants. A smooth ticker effect has also been added at the top of the page to display moving promotional offers, making the site more engaging and lively. The layout is fully responsive, ensuring that it adjusts well across both desktop and mobile devices.
-All the sneaker images used in this project are AI-generated and stored in the local “images” folder. Each image is displayed using relative file paths, which ensures they work correctly when the project is hosted online, including on GitHub Pages. The styling mainly focuses on glassmorphism, glowing neon edges, and soft animations to create depth and a premium futuristic experience.
-To run the project, simply open the “index.html” file in any web browser or use the Live Server extension in Visual Studio Code. The folder structure includes “index.html”, “style.css”, and an “images” folder containing all the sneaker visuals. You can easily customize the colors, background, animations, or text by editing the CSS file according to your preference.
-This project was made as a creative experiment to practice modern CSS styling and animation techniques, and to design an eye-catching sneaker website using only basic web technologies.
+# 👟 SNKRD — Futuristic Sneaker Landing Page ⚡✨
+
+![SNKRD Banner](https://img.shields.io/badge/SNKRD-Neon%20Sneakers-8b5cf6?style=for-the-badge\&logo=css3)
+
+> A bold, futuristic sneaker showcase — glowing visuals, clean layouts, and pure CSS magic. 🚀
+
+---
+
+## 🔥 Quick Preview
+
+A **visually striking sneaker landing page** built using **only HTML and CSS**.
+Designed with **neon glow effects, floating shoe visuals, and modern UI aesthetics**, SNKRD demonstrates how far strong frontend fundamentals can go **without JavaScript or frameworks**.
+
+---
+
+## 📸 Screenshots
+
+<img src="images/screenshot1.png">
+<img src="images/screenshot2.png">
+<img src="images/screenshot3.png">
+
+---
+
+## ⭐ Features
+
+* ✨ Futuristic **neon & glow UI effects**
+* 👟 Eye-catching **floating sneaker hero section**
+* 🧭 Clean navigation bar with modern layout
+* 📦 Product highlights and recommendation section
+* 📱 Fully responsive for desktop and mobile screens
+* 🎨 AI-generated sneaker images stored locally
+* ⚡ Fast loading — no JS, no libraries, no frameworks
+
+---
+
+## 🧩 Tech Stack
+
+* **Markup:** HTML5
+* **Styles:** CSS3 (Flexbox, gradients, animations, transitions)
+* **Behaviour:** None — pure static frontend ✨
+
+> ❌ No JavaScript
+> ❌ No external frameworks
+
+---
+
+## 🚀 Quick Start — Run Locally
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/snkrd.git
+cd snkrd
+```
+
+2. Open `index.html` directly in your browser
+   (No server required — works offline)
+
+---
+
+## 🔧 File Overview
+
+```
+/ (project root)
+├─ index.html        # main landing page
+├─ style.css         # all styling & glow effects
+├─ images/           # AI-generated sneaker images
+└─ README.md         # project documentation
+```
+
+All assets are linked using **relative paths**, making the project compatible with **GitHub Pages**.
+
+---
+
+## ✅ Design & Best Practices
+
+* Clean and readable HTML structure
+* Responsive layout using Flexbox
+* Consistent color palette and glow effects
+* Optimized assets for smooth performance
+* Beginner-friendly and examiner-friendly codebase
+
+---
+
+## 🙌 Notes
+
+This project is intentionally built using **only HTML and CSS** to demonstrate **strong frontend fundamentals, UI creativity, and layout skills** without relying on JavaScript.
+
+---
+
+## 📬 Author
+
+* **Aviral Dwivedi**
+  Frontend Developer 💻
